@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+
+body{
+	padding : 20px;
+	width : 500px;
+	height : 300px;
+	border: 1px solid #222;	
+}
+
+table{
+	border-collapse : collapse;
+}
+td,th{
+	padding-top : 3px;
+	padding-bottom : 3px;
+	padding-left : 5px;
+	padding-right : 5px;
+	border : 1px solid #222;
+}
+th{
+	background-color :rgb(225,225,225);
+}
+#jumun{
+	position:absolute;
+	border : 1px solid;
+	left : 435px;	
+}
+.books{
+	width : 20px;
+}
+.1{
+	width : 50px;
+}
+.2{
+	width : 150px;
+}
+.3{
+	width : 50px;
+}
+.4{
+	width : 50px;
+}
