@@ -3,7 +3,6 @@
 	<name>NamooShopWeb</name>
 	<comment></comment>
 	<projects>
-		<project>NamooShop</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
